@@ -1,6 +1,6 @@
 <?php
 ## Copyright (C) 2018, The WRKZCoin developers
-## php script to create hashes checkpoints of WrkzCoin
+## php script to create checkpoints of WrkzCoin
 
 
 ## Inspired from:
